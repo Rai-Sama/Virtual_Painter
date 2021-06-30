@@ -19,5 +19,8 @@ I tried using mediapipe and tracking my index finger for the painting but it is 
 * Finally draw the points stored in the array on the frame (live feed) and the canvas
 * If the user quits, store the canvas as a png and destroy all open windows
 
+# Demo
+![Demo](https://github.com/Rai-Sama/Virtual_Painter/blob/master/Demo.gif)
+
 ## Further points
 * An erase all button is added which clears all the drawn points but no eraser is added. An eraser can be added by creating an eraser button and giving it black color. But to see it's effect properly the canvas will have to be converted to gray image and inverted and then superpositioned on the live feed.
