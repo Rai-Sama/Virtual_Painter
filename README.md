@@ -23,4 +23,4 @@ I tried using mediapipe and tracking my index finger for the painting but it is 
 ![Demo](https://github.com/Rai-Sama/Virtual_Painter/blob/master/Demo.gif)
 
 ## Further points
-* An "erase all" button is added which clears all the drawn points but there's no eraser. An eraser can be added by creating an eraser button, but to see it's effect properly, selecting it should change the drawing color to black and the canvas will have to be converted to a gray image and inverted and then superpositioned on the live feed, nullifying the previous drawings on the points that were colored by the eraser.
+* A "clear all" button is added which clears all the drawn points but there's no eraser. An eraser can be added by creating an eraser button, but to see it's effect properly, selecting it should change the drawing color to black and the canvas will have to be converted to a gray image and inverted and then superpositioned on the live feed, nullifying the previous drawings on the points that were colored by the eraser.
